@@ -1,10 +1,27 @@
 ---
+description: This section provide an overview of the project, including
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Introduction
 
-
+1. The problem statement
+2. The data set used
+3. Machine Learning methods&#x20;
 
 {% hint style="info" %}
 [Source Code](https://github.com/anilkumarKanasani/House-Price-Prediction)
