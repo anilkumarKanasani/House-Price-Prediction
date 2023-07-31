@@ -12,7 +12,7 @@ coverY: 0
 
 ## Overview
 
-In this House Sale Price Prediction ( HSPP ) project, we would like to implement various state of the art (SOTA) data science techniques to solve a given business problem. The business problem of HSPP is very clearly explained in [Business Problem](#user-content-fn-1)[^1] page.
+In this House Sale Price Prediction ( HSPP ) project, we would like to implement various state of the art (SOTA) data science techniques to solve a given [business problem](business-problem.md). The business problem of HSPP is very clearly explained in [Business Problem](#user-content-fn-1)[^1] page.
 
 
 
