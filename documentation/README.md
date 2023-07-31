@@ -1,6 +1,4 @@
 ---
-cover: >-
-  .gitbook/assets/real-estate-3d-icon-of-house-with-contract-signed-and-coins-money-everything-checked-for-sale-sign-real-estate-agency-website-banner-2PHG29B.jpg
 coverY: 0
 ---
 
@@ -15,6 +13,10 @@ coverY: 0
 ## Overview
 
 In this House Sale Price Prediction ( HSPP ) project, we would like to implement various state of the art (SOTA) data science techniques to solve a given business problem. The business problem of HSPP is very clearly explained in [Business Problem](#user-content-fn-1)[^1] page.
+
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 As mentioned in the [Business Problem](broken-reference)[ ](business-problem.md), we have to predict the sale price ( numeric variable ) of a given house with given set of features. This is a regression problem. We will apply the following techniques to give statistical solution to boost the business performance.&#x20;
 
