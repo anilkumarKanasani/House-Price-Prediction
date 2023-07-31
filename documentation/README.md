@@ -1,3 +1,9 @@
+---
+cover: >-
+  .gitbook/assets/real-estate-3d-icon-of-house-with-contract-signed-and-coins-money-everything-checked-for-sale-sign-real-estate-agency-website-banner-2PHG29B.jpg
+coverY: 0
+---
+
 # Introduction
 
 
